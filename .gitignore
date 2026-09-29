@@ -1,0 +1,10 @@
+.venv/
+.env
+.env.*
+!.env.example
+api.txt
+__pycache__/
+*.pyc
+generated/
+submission/
+.streamlit/secrets.toml
